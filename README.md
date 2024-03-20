@@ -4,4 +4,6 @@ Level 0 - completed
 
 Level 1 - completed
 
-Level 2 - in progress
+Level 2 - completed
+
+Level 3 - in progress
